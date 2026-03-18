@@ -3,7 +3,7 @@
 body {  
 	font: 10pt/16pt Georgia, Times New Roman, Times, serif; 
 	color: #010E22; 
-	background: #ef0707 url(/background.avif) repeat; 
+	background: #ef0707 url(background.avif) repeat; 
 	margin:0px;
 	border: 0px;
 	padding: 0px;
@@ -41,7 +41,7 @@ a:hover, a:active {
 .page-wrapper { 
 	text-align: left;
 	position: relative;
-	background: #e9cfae url(/coffee_cup-removebg-preview.png) no-repeat top left;
+	background: #e9cfae url(coffee_cup-removebg-preview.png) no-repeat top left;
 	background-size: 300px;
 	margin: 20px auto;
 	border: 5px solid #643d03;
@@ -53,7 +53,7 @@ a:hover, a:active {
 
 
 .intro { 
-	background: url(/pngtree-aesthetic-black-text-frame-vector-png-image_14101705-removebg-preview.png) no-repeat top right;
+	background: url(pngtree-aesthetic-black-text-frame-vector-png-image_14101705-removebg-preview.png) no-repeat top right;
 	margin: 0px;
 		}
 
@@ -397,7 +397,7 @@ a:hover, a:active {
 .page-wrapper { 
 	text-align: left;
 	position: relative;
-	background: #e9cfae url(/coffee_cup-removebg-preview.png) no-repeat top left;
+	background: #e9cfae url(coffee_cup-removebg-preview.png) no-repeat top left;
 	background-size: 300px;
 	margin: 20px auto;
 	border: 5px solid #643d03;
@@ -409,7 +409,7 @@ a:hover, a:active {
 
 
 .intro { 
-	background: url(/pngtree-aesthetic-black-text-frame-vector-png-image_14101705-removebg-preview.png) no-repeat top right;
+	background: url(pngtree-aesthetic-black-text-frame-vector-png-image_14101705-removebg-preview.png) no-repeat top right;
 	margin: 0px;
 		}
 
